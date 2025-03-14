@@ -43,9 +43,11 @@ While this is a personal playground for prototyping, I'm always open to discussi
 
 📫 Contact
 
-Bluesky: https://bsky.app/profile/shubhanshu.dev
+🦋 [Bluesky](https://bsky.app/profile/shubhanshu.dev) 
 
-LinkedIn: https://linkedin.com/in/shubhaarsay
+💼 [LinkedIn](https://linkedin.com/in/shubhaarsay) 
+
+🌎 [Website](https://shubhanshu.dev)
 
 "Experiment fast, build smart."
 
