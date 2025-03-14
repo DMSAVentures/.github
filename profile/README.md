@@ -1,8 +1,8 @@
-Welcome to DMSA
+**Welcome to DMSA**
 
 🚀 A Space for Prototyping and Experimentation
 
-About
+**About**
 
 This is my personal organization where I explore new ideas, rapidly prototype products, and experiment with different technologies. I primarily work with:
 
@@ -11,11 +11,11 @@ React & Next.js for frontend development
 Golang for backend services
 
 
-🚀 Purpose
+🚀 **Purpose**
 
 To quickly prototype and test product ideas while improving my skills in building scalable and maintainable applications.
 
-🏗 Tech Stack
+🏗 **Tech Stack**
 
 I use a modern tech stack optimized for experimentation and rapid development:
 
@@ -33,9 +33,9 @@ Emails: Resend
 
 Billing: Stripe
 
-🔥 Projects
+🔥 **Projects**
 
-Private for now. I've only made my boilerplate for SaaS public.
+Private for now. I've only made my boilerplate for SaaS public. Feel free to explore base-server, base-webapp, base-infra
 
 👥 Collaborations
 
